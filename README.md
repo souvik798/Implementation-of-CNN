@@ -135,7 +135,8 @@ training_history = model.fit(training_images, training_labels, epochs=10, callba
 
 ### Reshape and Normalize output
 
-![dlex2](https://github.com/user-attachments/assets/7f6b3eee-a634-4eac-b056-f5b6f2a177c0)
+![deeee](https://github.com/user-attachments/assets/ea0f091b-4ab2-4d0b-9448-bfe77355d20b)
+
 
 
 
